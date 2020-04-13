@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/allen/rep/fpis3.25/src/main/scala/TreeSizeTest.scala:12:10: pattern type is incompatible with expected type;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Leaf.type[0m
+[0m[[0m[31merror[0m] [0m[0m required: Tree[A][0m
+[0m[[0m[31merror[0m] [0m[0mNote: if you intended to match against the class, try `case Leaf(_)`[0m
+[0m[[0m[31merror[0m] [0m[0m    case Leaf => 1[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
